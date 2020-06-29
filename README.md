@@ -1,5 +1,5 @@
 ## Project Title
-Fatal Collisions in Toronto_Analysis - In this endeavour we have analysed the fatal collisions in Toronto getting the data from toronto police public safety portal
+Fatal Collisions in Toronto_Analysis - In this endeavour we have analysed the fatal collisions in Toronto getting the data from toronto police public safety portal.
 
 ## Getting Started
 Download the main.ipynb file and run it.
